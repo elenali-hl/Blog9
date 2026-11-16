@@ -1,0 +1,3 @@
+model,Periods,Total_Return,Annual_Return,Annual_Volatility,Sharpe,CAPM_Alpha,CAPM_Beta,SPY_Total_Return
+Improved XGBoost,22,79.43,39.77,18.92,1.88,16.46,1.175,31.45
+Original XGBoost,22,34.83,18.67,12.72,1.415,8.3,0.597,31.45
